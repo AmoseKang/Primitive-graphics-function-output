@@ -26,7 +26,7 @@ results of pixels
 ## Executing and packaging
 First, make sure you have nodejs isntalled.  
 Pull from github or download zip package.  
-Run command `npm install` to install dependence.  
+Run command `npm install --dev` to install dependence.  
 Run `webpack` to packaging js files.  
 Run `electron .` to open with electron.  
 Use [electron packager](https://github.com/electron-userland/electron-packager "electron packager") to generate executable files.
